@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\SMS Sender\SMS Sender\obj\Debug\net6.0-windows\SMS Sender.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SMS Sender\SMS Sender\obj\Debug\net6.0-windows\SMS_Sender.Form1.resources
+C:\Users\User\source\repos\SMS Sender\SMS Sender\obj\Debug\net6.0-windows\SMS Sender.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SMS Sender\SMS Sender\obj\Debug\net6.0-windows\SMS Sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SMS Sender\SMS Sender\obj\Debug\net6.0-windows\SMS Sender.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SMS Sender\SMS Sender\obj\Debug\net6.0-windows\SMS Sender.AssemblyInfo.cs
+C:\Users\User\source\repos\SMS Sender\SMS Sender\obj\Debug\net6.0-windows\SMS Sender.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SMS Sender\SMS Sender\bin\Debug\net6.0-windows\SMS Sender.exe
+C:\Users\User\source\repos\SMS Sender\SMS Sender\bin\Debug\net6.0-windows\SMS Sender.deps.json
+C:\Users\User\source\repos\SMS Sender\SMS Sender\bin\Debug\net6.0-windows\SMS Sender.runtimeconfig.json
+C:\Users\User\source\repos\SMS Sender\SMS Sender\bin\Debug\net6.0-windows\SMS Sender.dll
+C:\Users\User\source\repos\SMS Sender\SMS Sender\bin\Debug\net6.0-windows\SMS Sender.pdb
+C:\Users\User\source\repos\SMS Sender\SMS Sender\obj\Debug\net6.0-windows\SMS Sender.dll
+C:\Users\User\source\repos\SMS Sender\SMS Sender\obj\Debug\net6.0-windows\refint\SMS Sender.dll
+C:\Users\User\source\repos\SMS Sender\SMS Sender\obj\Debug\net6.0-windows\SMS Sender.pdb
+C:\Users\User\source\repos\SMS Sender\SMS Sender\obj\Debug\net6.0-windows\SMS Sender.genruntimeconfig.cache
+C:\Users\User\source\repos\SMS Sender\SMS Sender\obj\Debug\net6.0-windows\ref\SMS Sender.dll
